@@ -1,2 +1,2 @@
 # Curso_R
-Provides data and additional files for the R course 
+Estos son los documentos que servirán como guía en el curso de R para principiantes.
