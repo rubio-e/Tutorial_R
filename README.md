@@ -1,5 +1,5 @@
 # Estadística básica con R y RStudio
-## El curso está ordenado en siete módulos principales más un módulo extra sobre normalidad
+> El curso está ordenado en siete módulos principales más un módulo extra sobre normalidad
 - M1-M7
 - NORMALIDAD
 ## Se recomienda seguir el siguiente orden 
