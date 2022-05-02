@@ -51,6 +51,6 @@
    - qqplot
 - Pruebas de normalidad
 - Transformación de variables
-### Bases de datos
+### [Bases de datos](https://github.com/rubio-e/Bases)
 Acceso a las bases de datos utilizadas en el curso: https://github.com/rubio-e/Bases
 
