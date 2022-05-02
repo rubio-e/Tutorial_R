@@ -23,13 +23,13 @@
       - Matrices
       - Marco de datos (data.frame)
       - Listas
-- Importación de datos
-- A partir de SPSS
-- A partir de SAS
-- A partir de SYSTAT
-- A partir de EXCEL
-- A partir de .txt
-- A partir de .csv 
+- [Importación de datos](https://github.com/rubio-e/Curso_R/blob/main/M1.md#importaci%C3%B3n-de-datos)
+   - A partir de SPSS
+   - A partir de SAS
+   - A partir de SYSTAT
+   - A partir de EXCEL
+   - A partir de .txt
+   - A partir de .csv 
 ### [M2 Gráficos](https://github.com/rubio-e/Curso_R/blob/main/M2.md)
 - Funciones básicas de gráficos
 - Gráficos de dispersión
