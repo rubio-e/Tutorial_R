@@ -3,9 +3,9 @@
 - M1-M7
 - NORMALIDAD
 ## Se recomienda seguir el siguiente orden
-- M1 Introducción al R: generalidades
-- M2 Funciones básicas de gráficos
-- M3 Estadística descriptiva
+### M1 Introducción al R: generalidades
+### M2 Funciones básicas de gráficos
+### M3 Estadística descriptiva
     - Medidas de tendencia central
     - Medidas de dispersión
   - Estadística descriptiva con bases de datos
