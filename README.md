@@ -20,5 +20,17 @@
   - Intervalos de confianza distribución t de student
   -   Librería doBy y el cálculo de los intervalos de confianza en la distribución normal Z 
 
+### M4 Pruebas de hipótesis
+- Prueba de hipótesis en caballos 
+- Prueba de z mediante el paquete BSDA
+- Prueba de t de estudent
+   - Hipótesis de dos colas para la media de la población 
+- Hipótesis de una cola
+- Comparación entre las medias de dos poblaciones
+   - Prueba Z
+   - Prueba de t para dos muestras independientes
+   - Cálculo del poder de la prueba de t de dos poblaciones
+### M5
+
 Acceso a las bases de datos utilizadas en el curso: https://github.com/rubio-e/Bases
 
