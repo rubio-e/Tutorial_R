@@ -6,7 +6,7 @@
 - M1 Introducción al R: generalidades
 - M2 Funciones básicas de gráficos
 - M3 Estadística descriptiva
-- - mED
+  - Medidas de tendencia central
 
-Acceso a las bases de datos utilizadas en el curso:(https://github.com/rubio-e/Bases)
+Acceso a las bases de datos utilizadas en el curso: https://github.com/rubio-e/Bases
 
