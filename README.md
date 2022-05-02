@@ -4,7 +4,38 @@
 - NORMALIDAD
 ## Se recomienda seguir el siguiente orden 
 ### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Curso_R/blob/main/M1.md)
+- ¿Que es el R-statistics?
+- Utilización de comandos simples
+- Uso de los vectores
+- Uso de las secuencias
+- Uso los operadores
+- Operaciones entre asignaciones
+- Variables y asignaciones de texto
+- Uso de la función help
+- Entrada y tipos de datos
+- Tipo de datos
+   - Vectores
+   - Matrices
+   - Marco de datos (data.frame)
+   - Listas
+- Importación de datos
+- A partir de SPSS
+- A partir de SAS
+- A partir de SYSTAT
+- A partir de EXCEL
+- A partir de .txt
+- A partir de .csv 
 ### [M2 Funciones básicas de gráficos](https://github.com/rubio-e/Curso_R/blob/main/M2.md)
+- Funciones básicas de gráficos
+- Gráficos de dispersión
+- Línk de parámetros gráficos en R
+- Gráficos de barra
+- Distribución de los gráficos en mosaico
+- Gráficos de puntos
+- Gráficos de líneas
+- Gráficos de densidad e histográmas
+- Gráficos de caja
+- Gráficos con LATTICE
 ### [M3 Estadística descriptiva](https://github.com/rubio-e/Curso_R/blob/main/M3.md)
 - Medidas de tendencia central
 - Medidas de dispersión
