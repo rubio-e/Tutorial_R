@@ -2,10 +2,10 @@
 ## El curso está ordenado en siete módulos principales más un módulo extra sobre normalidad
 - M1-M7
 - NORMALIDAD
-## Se recomienda seguir el siguiente orden
-### M1 Introducción al R: generalidades
+## Se recomienda seguir el siguiente orden 
+### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Curso_R/blob/main/M1.md)
 ### M2 Funciones básicas de gráficos
-### M3 Estadística descriptiva
+### M3 Estadística descriptiva 
 - Medidas de tendencia central
 - Medidas de dispersión
    - Estadística descriptiva con bases de datos
