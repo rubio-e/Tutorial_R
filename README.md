@@ -1,6 +1,12 @@
 # Estadística básica con R y RStudio
-> El curso está ordenado en siete módulos principales más un módulo extra sobre normalidad
-- M1-M7
+> En este curso se utilizará el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El curso está diseñado para llevarse a cabo en 10 días y está ordenado en siete módulos principales más un módulo extra sobre normalidad
+> •	Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización
+> •	Módulo 2. Gráficos 
+•	Módulo 3. Estadística descriptiva
+•	Módulo 4. Práctica con bases de datos
+•	Módulo 5. Pruebas de hipótesis
+•	Módulo 6. ANOVA de un solo factor y multifactorial
+•	Módulo 7. Correlación y regresión lineal simple, múltiple y no lineal.
 - NORMALIDAD
 ## Se recomienda seguir el siguiente orden 
 ### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Curso_R/blob/main/M1.md)
