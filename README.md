@@ -30,7 +30,12 @@
    - Prueba Z
    - Prueba de t para dos muestras independientes
    - Cálculo del poder de la prueba de t de dos poblaciones
-### M5
+### M5 ANOVA
+- Anova unifactorial paso a paso
+- ANOVA se puede calcular de varias formas en R
+- Otro ejemplo con el aov más gráficos
+- Uso de la librería agricolae
+- Modelo multifactorial
 
 Acceso a las bases de datos utilizadas en el curso: https://github.com/rubio-e/Bases
 
