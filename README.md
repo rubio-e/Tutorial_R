@@ -1,5 +1,5 @@
 # Estadística básica con R y RStudio
-> En este curso se utilizará el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El curso está diseñado para llevarse a cabo en 10 días y está ordenado en seis módulos principales más un módulo extra sobre normalidad
+> En este curso se utiliza el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El curso está diseñado en seis módulos principales más un módulo extra sobre normalidad
 > -	Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización
 > -	Módulo 2. Gráficos 
 > -	Módulo 3. Estadística descriptiva
@@ -42,19 +42,19 @@
 - Gráficos de caja
 - Gráficos con LATTICE
 ### [M3 Estadística Descriptiva](https://github.com/rubio-e/Curso_R/blob/main/M3.md)
-- Medidas de tendencia central
-- Medidas de dispersión
-   - Estadística descriptiva con bases de datos
-   - Cálculo directo de las estadísticas básicas
-   - Uso de las función "tapply" para bases de datos por grupo
-   - Uso del paquete "doBy" para bases de datos
-   - Uso de la librería LATTICE para gráficos apilados
-- Probabilidad y teoría de distribuciones
+- [Medidas de tendencia central](https://github.com/rubio-e/Curso_R/blob/main/M3.md#medidas-de-tendencia-central)
+- [Medidas de dispersión](https://github.com/rubio-e/Curso_R/blob/main/M3.md#medidas-de-dispersi%C3%B3n)
+   - [Estadística descriptiva con bases de datos](https://github.com/rubio-e/Curso_R/blob/main/M3.md#estad%C3%ADstica-descriptiva-con-bases-de-datos)
+      - Cálculo directo de las estadísticas básicas
+      - Uso de las función "tapply" para bases de datos por grupo
+      - Uso del paquete "doBy" para bases de datos
+      - Uso de la librería LATTICE para gráficos apilados
+- [Probabilidad y teoría de distribuciones](https://github.com/rubio-e/Curso_R/blob/main/M3.md#probabilidad-y-teor%C3%ADa-de-distribuciones)
    - Distribución normal y función acumulativa
    - Distribución de medias
-  - Intervalos de confianza distribución normal
-  - Intervalos de confianza distribución t de student
-  -   Librería doBy y el cálculo de los intervalos de confianza en la distribución normal Z 
+     - Intervalos de confianza distribución normal
+     - Intervalos de confianza distribución t de student
+    - Librería doBy y el cálculo de los intervalos de confianza en la distribución normal Z 
 
 ### [M4 Pruebas de Hipótesis](https://github.com/rubio-e/Curso_R/blob/main/M4.md)
 - Prueba de hipótesis en caballos 
