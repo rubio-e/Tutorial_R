@@ -31,7 +31,7 @@
 - A partir de EXCEL
 - A partir de .txt
 - A partir de .csv 
-### [M2 Funciones básicas de gráficos](https://github.com/rubio-e/Curso_R/blob/main/M2.md)
+### [M2 Gráficos](https://github.com/rubio-e/Curso_R/blob/main/M2.md)
 - Funciones básicas de gráficos
 - Gráficos de dispersión
 - Línk de parámetros gráficos en R
@@ -42,7 +42,7 @@
 - Gráficos de densidad e histográmas
 - Gráficos de caja
 - Gráficos con LATTICE
-### [M3 Estadística descriptiva](https://github.com/rubio-e/Curso_R/blob/main/M3.md)
+### [M3 Estadística Descriptiva](https://github.com/rubio-e/Curso_R/blob/main/M3.md)
 - Medidas de tendencia central
 - Medidas de dispersión
    - Estadística descriptiva con bases de datos
@@ -57,7 +57,7 @@
   - Intervalos de confianza distribución t de student
   -   Librería doBy y el cálculo de los intervalos de confianza en la distribución normal Z 
 
-### [M4 Pruebas de hipótesis](https://github.com/rubio-e/Curso_R/blob/main/M4.md)
+### [M4 Pruebas de Hipótesis](https://github.com/rubio-e/Curso_R/blob/main/M4.md)
 - Prueba de hipótesis en caballos 
 - Prueba de z mediante el paquete BSDA
 - Prueba de t de estudent
