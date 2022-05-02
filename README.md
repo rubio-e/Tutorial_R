@@ -9,7 +9,7 @@
   - Medidas de tendencia central
   - Medidas de dispersión
   - Estadística descriptiva con bases de datos
-   - Cálculo directo de las estadísticas básicas
+   - - Cálculo directo de las estadísticas básicas
    - Uso de las función "tapply" para bases de datos por grupo
    - Uso del paquete "doBy" para bases de datos
    - Uso de la librería LATTICE para gráficos apilados
