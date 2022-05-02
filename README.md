@@ -17,7 +17,7 @@
 - Operaciones entre asignaciones
 - Variables y asignaciones de texto
 - Uso de la función help
-- [Entrada y tipos de datos] https://github.com/rubio-e/Curso_R/blob/main/M1.md#entrada-y-tipos-de-datos
+- [Entrada y tipos de datos](https://github.com/rubio-e/Curso_R/blob/main/M1.md#entrada-y-tipos-de-datos)
    - Tipo de datos
       - Vectores
       - Matrices
