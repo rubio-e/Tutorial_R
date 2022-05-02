@@ -1,3 +1,6 @@
+
+
+![plot of chunk unnamed-chunk-1](figure/rstutio.png) 
 # Estadística Básica con R y RStudio
 > En este curso se utiliza el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El curso está diseñado en seis módulos principales, más un módulo extra sobre normalidad
 > -	[Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización](https://github.com/rubio-e/Curso_R/blob/main/README.md#m1-introducci%C3%B3n-al-r-generalidades)
