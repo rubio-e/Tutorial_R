@@ -6,9 +6,9 @@
 ### M1 Introducción al R: generalidades
 ### M2 Funciones básicas de gráficos
 ### M3 Estadística descriptiva
-- Medidas de tendencia central
-- Medidas de dispersión
-  - Estadística descriptiva con bases de datos
+* Medidas de tendencia central
+* Medidas de dispersión
+**  - Estadística descriptiva con bases de datos
    - - Cálculo directo de las estadísticas básicas
    - Uso de las función "tapply" para bases de datos por grupo
    - Uso del paquete "doBy" para bases de datos
