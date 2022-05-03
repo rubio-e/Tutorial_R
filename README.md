@@ -15,7 +15,7 @@
 > -	[NORMALIDAD](https://github.com/rubio-e/Curso_R/blob/main/README.md#normalidad)
 ## Se recomienda seguir el siguiente orden 
 ### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Curso_R/blob/main/M1.md)
-- ¿Que es el R-statistics?
+- ¿Que es el R?
 - Utilización de comandos simples
 - Uso de los vectores
 - Uso de las secuencias
