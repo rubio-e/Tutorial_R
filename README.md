@@ -1,6 +1,6 @@
 
 
-![plot of chunk unnamed-chunk-1](figure/rstutio2.png) 
+![plot of chunk unnamed-chunk-1](figure/rstudio2.png) 
 <!---
 # Estadística Básica con R y RStudio
 -->
