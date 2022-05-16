@@ -7,7 +7,7 @@
 
 > En este tutorial se utiliza el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El tutorial está diseñado en seis módulos principales, más un módulo extra sobre normalidad
 > -	[Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización](https://github.com/rubio-e/Curso_R/blob/main/README.md#m1-introducci%C3%B3n-al-r-generalidades)
-> -	[Módulo 2. Gráficos](https://github.com/rubio-e/Curso_R/blob/main/README.md#m2-gr%C3%A1ficos)
+> -	[Módulo 2. Gráficos (R base)](https://github.com/rubio-e/Curso_R/blob/main/README.md#m2-gr%C3%A1ficos)
 > -	[Módulo 3. Estadística descriptiva](https://github.com/rubio-e/Curso_R/blob/main/README.md#m3-estad%C3%ADstica-descriptiva)
 > -	[Módulo 4. Pruebas de hipótesis](https://github.com/rubio-e/Curso_R/blob/main/README.md#m4-pruebas-de-hip%C3%B3tesis)
 > -	[Módulo 5. ANOVA](https://github.com/rubio-e/Curso_R/blob/main/README.md#m5-anova)
@@ -36,7 +36,7 @@
    - A partir de EXCEL
    - A partir de .txt
    - A partir de .csv 
-### [M2 Gráficos](https://github.com/rubio-e/Curso_R/blob/main/M2.md)
+### [M2 Gráficos (R base)](https://github.com/rubio-e/Curso_R/blob/main/M2.md)
 - Funciones básicas de gráficos
 - Gráficos de dispersión
 - Línk de parámetros gráficos en R
