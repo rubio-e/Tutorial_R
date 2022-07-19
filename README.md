@@ -9,7 +9,7 @@
 > -	[Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m1-introducci%C3%B3n-al-r-generalidades)
 > -	[Módulo 2. Gráficos (R base)](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m2-gr%C3%A1ficos-r-base)
 > -	[Módulo 3. Estadística descriptiva](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m3-estad%C3%ADstica-descriptiva)
-> -	[Módulo 4. Pruebas de hipótesis](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m4-pruebas-de-hip%C3%B3tesis)
+> -	[Módulo 4. Pruebas de hipótesis]https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m4-pruebas-de-hip%C3%B3tesis
 > -	[Módulo 5. ANOVA](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m5-anova)
 > -	[Módulo 6. Regresión](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m6-regresi%C3%B3n)
 > -	[NORMALIDAD](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#normalidad)
