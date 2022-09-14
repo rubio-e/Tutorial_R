@@ -8,11 +8,11 @@
 > En este tutorial se utiliza el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El tutorial está diseñado en seis módulos principales, más un módulo extra sobre normalidad
 > -	[Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización](https://github.com/rubio-e/Tutorial_R/blob/main/M1.md#1-introducci%C3%B3n-a-r-generalidades)
 > -	[Módulo 2. Gráficos (R base)](https://github.com/rubio-e/Tutorial_R/blob/main/M2.md#funciones-b%C3%A1sicas-de-gr%C3%A1ficos)
-> -	[Módulo 3. Estadística descriptiva](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m3-estad%C3%ADstica-descriptiva)
-> -	[Módulo 4. Pruebas de hipótesis](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m4-pruebas-de-hip%C3%B3tesis)
-> -	[Módulo 5. ANOVA](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m5-anova)
-> -	[Módulo 6. Regresión](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m6-regresi%C3%B3n)
-> -	[NORMALIDAD](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#normalidad)
+> -	[Módulo 3. Estadística descriptiva](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md#estad%C3%ADstica-descriptiva)
+> -	[Módulo 4. Pruebas de hipótesis](https://github.com/rubio-e/Tutorial_R/blob/main/M4.md#pruebas-de-hip%C3%B3tesis)
+> -	[Módulo 5. ANOVA](https://github.com/rubio-e/Tutorial_R/blob/main/M5.md#anova)
+> -	[Módulo 6. Regresión](https://github.com/rubio-e/Tutorial_R/blob/main/M6.md#regresi%C3%B3n)
+> -	[NORMALIDAD](https://github.com/rubio-e/Tutorial_R/blob/main/NORMALIDAD.md#normalidad)
 ## Se recomienda seguir el siguiente orden 
 ### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Tutorial_R/blob/main/M1.md#1-introducci%C3%B3n-a-r-generalidades)
 - ¿Que es el R?
