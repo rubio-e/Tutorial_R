@@ -14,7 +14,7 @@
 > -	[Módulo 6. Regresión](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m6-regresi%C3%B3n)
 > -	[NORMALIDAD](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#normalidad)
 ## Se recomienda seguir el siguiente orden 
-### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Tutorial_R/blob/main/M1.md)
+### [M1 Introducción al R: generalidades](https://github.com/rubio-e/Tutorial_R/edit/main/M1.md#1-introducci%C3%B3n-a-r-generalidades)
 - ¿Que es el R?
 - Utilización de comandos simples
 - Uso de los vectores
@@ -36,7 +36,7 @@
    - A partir de EXCEL
    - A partir de .txt
    - A partir de .csv 
-### [M2 Gráficos (R base)](https://github.com/rubio-e/Tutorial_R/blob/main/M2.md)
+### [M2 Gráficos (R base)](https://github.com/rubio-e/Tutorial_R/blob/main/M2.md#funciones-b%C3%A1sicas-de-gr%C3%A1ficos)
 - Funciones básicas de gráficos
 - Gráficos de dispersión
 - Línk de parámetros gráficos en R
@@ -47,7 +47,7 @@
 - Gráficos de densidad e histográmas
 - Gráficos de caja
 - Gráficos con LATTICE
-### [M3 Estadística Descriptiva](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md)
+### [M3 Estadística Descriptiva](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md#estad%C3%ADstica-descriptiva)
 - [Medidas de tendencia central](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md#medidas-de-tendencia-central)
 - [Medidas de dispersión](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md#medidas-de-dispersi%C3%B3n)
    - [Estadística descriptiva con bases de datos](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md#estad%C3%ADstica-descriptiva-con-bases-de-datos)
@@ -62,7 +62,7 @@
      - Intervalos de confianza distribución t de student
     - Librería doBy y el cálculo de los intervalos de confianza en la distribución normal Z 
 
-### [M4 Pruebas de Hipótesis](https://github.com/rubio-e/Tutorial_R/blob/main/M4.md)
+### [M4 Pruebas de Hipótesis](https://github.com/rubio-e/Tutorial_R/blob/main/M4.md#pruebas-de-hip%C3%B3tesis)
 - Prueba de hipótesis en caballos 
 - Prueba de z mediante el paquete BSDA
 - Prueba de t de estudent
@@ -72,7 +72,7 @@
    - Prueba Z
    - Prueba de t para dos muestras independientes
    - Cálculo del poder de la prueba de t de dos poblaciones
-### [M5 ANOVA](https://github.com/rubio-e/Tutorial_R/blob/main/M5.md)
+### [M5 ANOVA](https://github.com/rubio-e/Tutorial_R/blob/main/M5.md#anova)
 - Anova unifactorial paso a paso
 - ANOVA se puede calcular de varias formas en R
 - Otro ejemplo con el aov más gráficos
@@ -85,7 +85,7 @@
 - Regresión Polinomial
 - Regresión lineal múltiple y transformación Boxcox
 - Regresión no lineal
-### [Normalidad](https://github.com/rubio-e/Tutorial_R/blob/main/NORMALIDAD.md)
+### [Normalidad](https://github.com/rubio-e/Tutorial_R/blob/main/M6.md#regresi%C3%B3n)
 - Gráficos de exploración de datos
 - Gráficos de normalidad
    - Histograma
