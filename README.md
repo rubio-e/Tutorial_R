@@ -6,6 +6,7 @@
 -->
 
 > En este tutorial se utiliza el software de licencia libre R v3.0 o superior, el cual constituye un lenguaje de programación muy simple, de elegante representación gráfica y con alto grado de didáctica. El tutorial está diseñado en seis módulos principales, más un módulo extra sobre normalidad
+# Módulos:
 > -	[Módulo 1. Introducción al software R y R-Studio, funciones básicas para familiarización](https://github.com/rubio-e/Tutorial_R/blob/main/M1.md#1-introducci%C3%B3n-a-r-generalidades)
 > -	[Módulo 2. Gráficos (R base)](https://github.com/rubio-e/Tutorial_R/blob/main/M2.md#funciones-b%C3%A1sicas-de-gr%C3%A1ficos)
 > -	[Módulo 3. Estadística descriptiva](https://github.com/rubio-e/Tutorial_R/blob/main/M3.md#estad%C3%ADstica-descriptiva)
