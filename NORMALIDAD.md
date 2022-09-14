@@ -16,11 +16,11 @@ attach(datos)
 ```
 
 
-## Gr醘icos de exploraci髇 de datos 
+## Gr谩ficos de exploraci贸n de datos 
 
 
 ```r
-par(mfrow = c(2, 2))  ## Marco de cuatro gr醘icos
+par(mfrow = c(2, 2))  ## Marco de cuatro gr谩ficos
 plot(y)
 boxplot(y)
 hist(y, main = "")
@@ -45,7 +45,7 @@ detach(datos)
 ```
 
 
-## Gr醘icos de normalidad 
+## Gr谩ficos de normalidad 
 ### Histograma 
 
 ```r
@@ -84,7 +84,7 @@ lines(seq(0, 16, 0.1), length(peces$peso) * dnorm(seq(0, 16, 0.1), mean(peces$pe
 
 
 
-## Utilizar el paquete CAR m醩 la funci髇 qq.plot 
+## Utilizar el paquete CAR m谩s la funci贸n qq.plot 
 ### qqplot
 
 ```r
@@ -112,7 +112,7 @@ qqline(peces$peso, lty = 2)  ## No linearidad
 ## Pruebas de normalidad 
 ### H0 = no hay diferencia entre las distribuciones
 ### HA = si hay diferencia entre las distribuciones
-### Si se hacepta H0 quiere decir que los datos presetan una distribuci髇 normal
+### Si se hacepta H0 quiere decir que los datos presetan una distribuci贸n normal
 
 ```r
 shapiro.test(peces$peso)
@@ -127,7 +127,7 @@ shapiro.test(peces$peso)
 ```
 
 
-## Transformaci髇 de variables
+## Transformaci贸n de variables
 
 ```r
 logpeso <- log(peces$peso)
@@ -149,6 +149,6 @@ shapiro.test(x = logpeso)  ##Shapiro test
 ## W = 0.9905, p-value = 0.1007
 ```
 
-
+[Ir al contenido](https://github.com/rubio-e/Tutorial_R/blob/main/README.md#m%C3%B3dulos)
 
 
