@@ -31,6 +31,29 @@ ggplot(tree_data, aes(x = utme, y = utmn))+
        subtitle = "Solamente para muestra en clase",
        caption = "Fuente: internet")+
   theme_bw()
+
+#####################################################
+########### Math expressions ########################
+#####################################################
+# A few common expressions include:  
+# x^2
+# sqrt(x)
+# sqrt(x, y) (yth root of x)
+# hat(x) (x with a circumflex)
+# bar(x) (x bar)
+# x*y (juxtapose x and y)
+# x %*% y (x times y)
+# x %+-% y (x plus or minus y)
+# x[i] (x subscript i)
+# infinity (infinity symbol)
+# frac(x, y) (x over y)
+# Text and math 
+# expression(paste(mu == 0, " and ", sigma == 1))
+
+# Italics
+#  theme(axis.title.y = element_text(face = "italic"),
+#        axis.title.x = element_text(face = "italic"))
+
 ############################################
 ######## Combinar con dplyr ################
 ############################################
